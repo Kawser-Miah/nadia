@@ -1,100 +1,124 @@
 {
-  "skills": [
-    {
-      "name": "Flutter",
-      "category": "mobile"
-    },
-    {
-      "name": "Dart",
-      "category": "mobile"
-    },
-    {
-      "name": "Firebase",
-      "category": "backend"
-    },
-    {
-      "name": "REST API",
-      "category": "backend"
-    },
-    {
-      "name": "Git",
-      "category": "tools"
-    },
-    {
-      "name": "UI/UX Design",
-      "category": "mobile"
-    },
-    {
-      "name": "State Management",
-      "category": "mobile"
-    },
-    {
-      "name": "SQLite",
-      "category": "backend"
-    },
-    {
-      "name": "Android",
-      "category": "mobile"
-    },
-    {
-      "name": "iOS",
-      "category": "mobile"
-    },
-    {
-      "name": "Node.js",
-      "category": "backend"
-    },
-    {
-      "name": "MongoDB",
-      "category": "backend"
-    },
-    {
-      "name": "Provider",
-      "category": "mobile"
-    },
-    {
-      "name": "Bloc",
-      "category": "mobile"
-    },
-    {
-      "name": "GetX",
-      "category": "mobile"
-    },
-    {
-      "name": "GraphQL",
-      "category": "backend"
-    },
-    {
-      "name": "GitHub",
-      "category": "tools"
-    },
-    {
-      "name": "VS Code",
-      "category": "tools"
-    },
-    {
-      "name": "Android Studio",
-      "category": "tools"
-    },
-    {
-      "name": "Figma",
-      "category": "tools"
-    },
-    {
-      "name": "Postman",
-      "category": "tools"
-    },
-    {
-      "name": "Cloud Firestore",
-      "category": "backend"
-    },
-    {
-      "name": "Firebase Auth",
-      "category": "backend"
-    },
-    {
-      "name": "Material Design",
-      "category": "mobile"
-    }
-  ]
+    "skills": [
+        {
+            "name": "Flutter",
+            "category": "mobile"
+        },
+        {
+            "name": "Dart",
+            "category": "mobile"
+        },
+        {
+            "name": "Android",
+            "category": "mobile"
+        },
+        {
+            "name": "iOS",
+            "category": "mobile"
+        },
+        {
+            "name": "UI/UX Design",
+            "category": "mobile"
+        },
+        {
+            "name": "State Management",
+            "category": "mobile"
+        },
+        {
+            "name": "Provider",
+            "category": "mobile"
+        },
+        {
+            "name": "Bloc",
+            "category": "mobile"
+        },
+        {
+            "name": "GetX",
+            "category": "mobile"
+        },
+        {
+            "name": "Material Design",
+            "category": "mobile"
+        },
+        {
+            "name": "Node.js",
+            "category": "backend"
+        },
+        {
+            "name": "Firebase",
+            "category": "backend"
+        },
+        {
+            "name": "REST API",
+            "category": "backend"
+        },
+        {
+            "name": "GraphQL",
+            "category": "backend"
+        },
+        {
+            "name": "Cloud Firestore",
+            "category": "backend"
+        },
+        {
+            "name": "Firebase Auth",
+            "category": "backend"
+        },
+        {
+            "name": "Express.js",
+            "category": "backend"
+        },
+        {
+            "name": "MongoDB",
+            "category": "database"
+        },
+        {
+            "name": "PostgreSQL",
+            "category": "database"
+        },
+        {
+            "name": "MySQL",
+            "category": "database"
+        },
+        {
+            "name": "SQLite",
+            "category": "database"
+        },
+        {
+            "name": "Redis",
+            "category": "database"
+        },
+        {
+            "name": "Firestore",
+            "category": "database"
+        },
+        {
+            "name": "Git",
+            "category": "tools"
+        },
+        {
+            "name": "GitHub",
+            "category": "tools"
+        },
+        {
+            "name": "VS Code",
+            "category": "tools"
+        },
+        {
+            "name": "Android Studio",
+            "category": "tools"
+        },
+        {
+            "name": "Postman",
+            "category": "tools"
+        },
+        {
+            "name": "Figma",
+            "category": "tools"
+        },
+        {
+            "name": "Docker",
+            "category": "tools"
+        }
+    ]
 }
