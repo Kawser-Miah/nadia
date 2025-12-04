@@ -1,0 +1,37 @@
+{
+  "experience": [
+    {
+      "title": "Flutter Developer",
+      "company": "Company Name / Freelance",
+      "duration": "2023 - Present",
+      "responsibilities": [
+        "Developed and maintained multiple Flutter applications for iOS and Android",
+        "Collaborated with designers to implement pixel-perfect UI designs",
+        "Integrated REST APIs and implemented state management solutions",
+        "Optimized app performance and reduced load times by 40%"
+      ]
+    },
+    {
+      "title": "Mobile App Developer Intern",
+      "company": "Tech Company Name",
+      "duration": "2022 - 2023",
+      "responsibilities": [
+        "Assisted in developing features for production Flutter applications",
+        "Participated in code reviews and learned best practices",
+        "Fixed bugs and improved existing codebase",
+        "Worked with agile methodology and sprint planning"
+      ]
+    },
+    {
+      "title": "Freelance Projects",
+      "company": "Various Clients",
+      "duration": "2021 - Present",
+      "responsibilities": [
+        "Built custom mobile applications for clients across different industries",
+        "Delivered projects on time with high client satisfaction",
+        "Provided ongoing maintenance and feature updates",
+        "Managed full development lifecycle from concept to deployment"
+      ]
+    }
+  ]
+}
