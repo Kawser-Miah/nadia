@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": "post1",
+      "title": "Getting Started with Flutter: A Beginner's Guide",
+      "date": "November 28, 2024",
+      "category": "Tutorial",
+      "excerpt": "Learn the fundamentals of Flutter development and build your first mobile application with this comprehensive guide.",
+      "image": "assets/images/blog/flutter-basics.jpg",
+      "readTime": "5 min read",
+      "url": "#"
+    },
+    {
+      "id": "post2",
+      "title": "State Management in Flutter: Provider vs Bloc",
+      "date": "November 15, 2024",
+      "category": "Development",
+      "excerpt": "A detailed comparison of popular state management solutions in Flutter and when to use each approach.",
+      "image": "assets/images/blog/state-management.jpg",
+      "readTime": "8 min read",
+      "url": "#"
+    },
+    {
+      "id": "post3",
+      "title": "Building Responsive UIs with Flutter",
+      "date": "November 2, 2024",
+      "category": "UI/UX",
+      "excerpt": "Best practices for creating beautiful, responsive user interfaces that work seamlessly across all devices.",
+      "image": "assets/images/blog/responsive-ui.jpg",
+      "readTime": "6 min read",
+      "url": "#"
+    },
+    {
+      "id": "post4",
+      "title": "Firebase Integration: Real-time Database Setup",
+      "date": "October 20, 2024",
+      "category": "Backend",
+      "excerpt": "Step-by-step guide to integrating Firebase Realtime Database in your Flutter applications.",
+      "image": "assets/images/blog/firebase.jpg",
+      "readTime": "7 min read",
+      "url": "#"
+    },
+    {
+      "id": "post5",
+      "title": "10 Flutter Performance Optimization Tips",
+      "date": "October 5, 2024",
+      "category": "Performance",
+      "excerpt": "Proven techniques to improve your Flutter app's performance and deliver smooth user experience.",
+      "image": "assets/images/blog/performance.jpg",
+      "readTime": "10 min read",
+      "url": "#"
+    },
+    {
+      "id": "post6",
+      "title": "Publishing Your Flutter App to App Stores",
+      "date": "September 18, 2024",
+      "category": "Deployment",
+      "excerpt": "Complete walkthrough of publishing your Flutter application to Google Play Store and Apple App Store.",
+      "image": "assets/images/blog/app-store.jpg",
+      "readTime": "12 min read",
+      "url": "#"
+    }
+  ]
+}
