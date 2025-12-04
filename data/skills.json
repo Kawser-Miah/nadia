@@ -9,14 +9,6 @@
             "category": "mobile"
         },
         {
-            "name": "Android",
-            "category": "mobile"
-        },
-        {
-            "name": "iOS",
-            "category": "mobile"
-        },
-        {
             "name": "UI/UX Design",
             "category": "mobile"
         },
@@ -41,19 +33,11 @@
             "category": "mobile"
         },
         {
-            "name": "Node.js",
-            "category": "backend"
-        },
-        {
             "name": "Firebase",
             "category": "backend"
         },
         {
             "name": "REST API",
-            "category": "backend"
-        },
-        {
-            "name": "GraphQL",
             "category": "backend"
         },
         {
@@ -65,27 +49,11 @@
             "category": "backend"
         },
         {
-            "name": "Express.js",
-            "category": "backend"
-        },
-        {
-            "name": "MongoDB",
-            "category": "database"
-        },
-        {
-            "name": "PostgreSQL",
-            "category": "database"
-        },
-        {
             "name": "MySQL",
             "category": "database"
         },
         {
             "name": "SQLite",
-            "category": "database"
-        },
-        {
-            "name": "Redis",
             "category": "database"
         },
         {
@@ -103,22 +71,7 @@
         {
             "name": "VS Code",
             "category": "tools"
-        },
-        {
-            "name": "Android Studio",
-            "category": "tools"
-        },
-        {
-            "name": "Postman",
-            "category": "tools"
-        },
-        {
-            "name": "Figma",
-            "category": "tools"
-        },
-        {
-            "name": "Docker",
-            "category": "tools"
         }
+        
     ]
 }
