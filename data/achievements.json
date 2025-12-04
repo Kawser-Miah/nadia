@@ -1,0 +1,34 @@
+{
+  "achievements": [
+    {
+      "icon": "🏆",
+      "title": "Hackathon Winner",
+      "description": "First place in National Mobile App Development Hackathon 2023"
+    },
+    {
+      "icon": "⭐",
+      "title": "App Store Featured",
+      "description": "Featured app on Google Play Store with 10,000+ downloads"
+    },
+    {
+      "icon": "📱",
+      "title": "20+ Apps Delivered",
+      "description": "Successfully delivered over 20 mobile applications to clients"
+    },
+    {
+      "icon": "⚡",
+      "title": "Performance Expert",
+      "description": "Optimized app performance resulting in 4.8+ star ratings"
+    },
+    {
+      "icon": "🎓",
+      "title": "Certified Developer",
+      "description": "Flutter & Firebase certified professional developer"
+    },
+    {
+      "icon": "👥",
+      "title": "Community Contributor",
+      "description": "Active contributor to Flutter open-source community"
+    }
+  ]
+}
